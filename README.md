@@ -23,6 +23,9 @@
 | **Standardize Tenant Logo Sizes**<br>Apply consistent logo dimensions and spacing across all tenants.<br>Preserve each logo's aspect ratio and ensure consistent display across screen sizes. | High | — | 🟢 Completed | — | — | — |
 | **End-to-End Issue Documentation and FAQ PDF**<br>Document issues across the complete application workflow, including troubleshooting steps and resolutions.<br>Compile frequently asked questions and publish the documentation as a PDF. | Low | — | ⚪ Yet to Start | — | — | — |
 | **Sync RPI Offline with current latest version**<br>Sync Offline DEB code to have latest web code, integrate recent web updates into the offline implementation and addressed code-level differences to maintain feature parity. | Low | — | 🟢 Completed | 14-10-2026 | 14-10-2026 | — |
+| **New DEB Package — Audio from DEB Instead of RPI**<br>Created a new DEB package that follows the existing web workflow, sending audio from the DEB instead of the Raspberry Pi (RPI). | — | Unplanned | 🟢 Completed | 19-10-2026 | 19-10-2026 | — |
+| **Primary and Secondary Language Selection — Yashoda and Other Logins**<br>Added primary and secondary language selection, with the secondary language options based on the selected primary language.<br>The secondary language resets at the start of every assessment.<br>Implemented for two tenants: Yashoda and other logins. | — | — | 🟢 Completed | 23-10-2026 | 23-10-2026 | — |
+| **Radxa Board Setup — Ubuntu 26 LTS**<br>Download the Ubuntu 26 LTS image file and flash it to a new SD card.<br>Set up and configure the Radxa board with the new installation. | — | — | 🔵 In Progress | — | — | — |
 
 ---
 
