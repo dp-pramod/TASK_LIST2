@@ -27,6 +27,7 @@
 | **Primary and Secondary Language Selection — Yashoda and Other Logins**<br>Added primary and secondary language selection, with the secondary language options based on the selected primary language.<br>The secondary language resets at the start of every assessment.<br>Implemented for two tenants: Yashoda and other logins. | — | — | 🟢 Completed | 23-10-2026 | 23-10-2026 | — |
 | **Radxa Board Setup — Ubuntu 26 LTS**<br>Download the Ubuntu 26 LTS image file and flash it to a new SD card.<br>Set up and configure the Radxa board with the new installation. | — | — | 🟠 On Hold  | — | — | Corrupt SD Cards |
 | **No Internet Screen — Tauri**<br>Create a new screen which will be displayed when there is no internet.<br> | — | — | 🟢 Completed  | 26-10-2026 | 26-10-2026 | - |
+| **Github workflow update — Tauri**<br>Update Git workflow to have workflow name and another to run on h200 self hosted server<br> | — | — | 🟢 Completed  | 26-10-2026 | 26-10-2026 | - |
 ---
 
 **Priority:** High · Medium · Low
