@@ -32,6 +32,9 @@
 | **RPI Configuration Scripts — Prod and Offline DEB Flows**<br>Write configuration scripts that automatically configure the Raspberry Pi (RPI) for both the production .deb flow and the offline .deb flow. | — | — | 🟢 Completed | 27-10-2026 | 27-10-2026 | [RPI_CONFIG](https://ohealthtech-my.sharepoint.com/my?id=%2Fpersonal%2Fsiddhant%5Fjaiswal%5Fo%2Dhealth%5Fin%2FDocuments%2FRPI%5FCONFIG&ga=1) |
 | **DGX TLS Setup Script — CA Certificates**<br>Write a TLS setup script for the DGX server that handles creation of the CA certificates. | — | — | 🟢 Completed | 27-10-2026 | 27-10-2026 | [RPI_CONFIG](https://ohealthtech-my.sharepoint.com/my?id=%2Fpersonal%2Fsiddhant%5Fjaiswal%5Fo%2Dhealth%5Fin%2FDocuments%2FRPI%5FCONFIG&ga=1) |
 | **Documentation for RPI and DGX Setup Scripts**<br>Create documentation covering the RPI configuration scripts (prod and offline .deb flows) and the DGX TLS setup script. | — | — | 🟢 Completed | 27-10-2026 | 27-10-2026 | [RPI_CONFIG](https://ohealthtech-my.sharepoint.com/my?id=%2Fpersonal%2Fsiddhant%5Fjaiswal%5Fo%2Dhealth%5Fin%2FDocuments%2FRPI%5FCONFIG&ga=1) |
+| **Vitals — Use Offline Audio When Available**<br>Play the offline audio files for vitals when they are available locally, instead of generating audio online. | — | — | 🟢 Completed | 28-10-2026 | 28-10-2026 | — |
+| **Tauri Env Config, Keyboard Changes, and Vitals Modal Close**<br>Read configuration from the Tauri environment.<br>Update keyboard behaviour.<br>Close the vitals modal when the user clicks outside it. | — | — | 🟢 Completed | 28-10-2026 | 28-10-2026 | — |
+| **Version and package.json Update**<br>Bump the application version and update package.json. | — | — | 🟢 Completed | 28-10-2026 | 28-10-2026 | — |
 ---
 
 **Priority:** High · Medium · Low
