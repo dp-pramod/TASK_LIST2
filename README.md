@@ -35,13 +35,24 @@
 | **Vitals — Use Offline Audio When Available**<br>Play the offline audio files for vitals when they are available locally, instead of generating audio online. | — | — | 🟢 Completed | 28-10-2026 | 28-10-2026 | — |
 | **Tauri Env Config, Keyboard Changes, and Vitals Modal Close**<br>Read configuration from the Tauri environment.<br>Update keyboard behaviour.<br>Close the vitals modal when the user clicks outside it. | — | — | 🟢 Completed | 28-10-2026 | 28-10-2026 | — |
 | **Version and package.json Update**<br>Bump the application version and update package.json. | — | — | 🟢 Completed | 28-10-2026 | 28-10-2026 | — |
+| **Unavailable — Travelling**<br>Not available on this day due to travel. | — | — | ⚫ Not Available | 29-10-2026 | — | Travelling |
+| **App SOP Animation — Under 10 Seconds**<br>Show a short animation before interaction: “Press mic button and start speaking clearly.”<br>User understands what to do before the first question. | High | — | 🟢 Completed | 30-10-2026 | 30-10-2026 | — |
+| **Mic Guidance Animation**<br>Add a visual guide for speaking, waiting, and stopping.<br>User sees a clear state: listening, processing, next question. | High | — | 🟢 Completed | 30-10-2026 | 30-10-2026 | — |
+| **Language Guidance**<br>Show an instruction that the user can speak naturally in the selected language.<br>Reduces confusion during OPD use. | High | — | 🟢 Completed | 30-10-2026 | 30-10-2026 | — |
+
+### Unavailability
+
+| Date | Reason |
+|------|--------|
+| 29-10-2026 | Unavailable — Travelling |
+
 ---
 
 **Priority:** High · Medium · Low
 
 **Delivery Type:** Planned · Unplanned
 
-**Status:** 🔵 In Progress · 🟡 Unit Testing · 🟣 Ready to Deploy · ⚪ Yet to Start · 🟠 On Hold · 🟢 Completed
+**Status:** 🔵 In Progress · 🟡 Unit Testing · 🟣 Ready to Deploy · ⚪ Yet to Start · 🟠 On Hold · 🟢 Completed · ⚫ Not Available
 
 **Date Format:** DD-MMM-YYYY
 
